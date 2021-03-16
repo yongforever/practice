@@ -15,6 +15,7 @@ public class UserController {
     @GetMapping("/select")
     @ApiOperation("查找用户")
     public User select(){
+        
         return new User("张三","男",10);
     }
 }
