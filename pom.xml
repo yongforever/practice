@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Multithreading</module>
+        <module>multiththreading</module>
         <module>multiththreading</module>
     </modules>
 
